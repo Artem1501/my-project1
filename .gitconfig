@@ -1,0 +1,12 @@
+[user]
+  name = Artem Tsvetkov
+  email = artemtsvetkovdelta@gmail.com
+[alias]
+  ci = commit
+  co = checkout
+  br = branch
+  st = status
+  
+[core] 
+  pager =
+  editor = nano
